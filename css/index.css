@@ -8,15 +8,23 @@ body {
 	background-color: #E2F2D7; /*Lightest Sage*/
 	height: auto;
 	/*color: #FFFFFF;*/
+	display: flex;
+	flex-direction: column;
+	margin: 0;
 }
 
 /* NAVIGATION NAVIGATION NAVIGATION NAVIGATION NAVIGATION */
+.navigation {
+	padding-top: 1%;
+}
+
 .logo {
 	width: 15%;
 	padding: 1%;
 	text-align: center;
 	margin-left: 0;
 	margin-right: auto;
+	background-color: #E2F2D7; /*Lightest Sage*/
 	/*font-family: 'Inter', sans-serif;*/
 }
 
@@ -24,6 +32,7 @@ nav {
 	width: 78%;
 	padding: 1%;
 	text-align: right;
+	background-color: #E2F2D7; /*Lightest Sage*/
 /*	margin-left: auto;
 	margin-right: 0;
 	margin-top: 0;
@@ -52,7 +61,7 @@ ul {
 
 /* BODY BODY BODY BODY BODY BODY BODY BODY BODY */
 .body-section {
-	
+	background-color: #E2F2D7; /*Lightest Sage*/
 }
 
 .name-accent {
@@ -132,7 +141,7 @@ ul {
 	padding: 1%;
 }
 
-.footer {
-	/*background-color: #738678;*/
-	/*width: 100%;*/
+footer {
+	background-color: #738678; /*Sage Green*/
+	width: 100%;
 }
