@@ -5,3 +5,8 @@ Things we learned about in Module 17 that I used:
 - Basic CSS styling
 - Importing Google font
 - Fixed positioning
+- Inline-block positioning
+
+Extra things from Module 18 that I used:
+- CSS Flexbox
+- Grid positioning for cards
